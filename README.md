@@ -1,2 +1,8 @@
-# edge-detection-project
-An edge-detection project uses techniques in image processing and computer vision to identify the boundaries of objects within an image by finding points where brightness or color changes sharply.
+# EdgeViewer
+
+Minimal Android + OpenCV (C++) + OpenGL ES project scaffold.
+This archive contains the project files you can upload to a GitHub repo or open in Codespaces.
+
+Files included:
+- app/ (Android module with Kotlin sources, C++ native code and CMake)
+- web/ (TypeScript viewer)
