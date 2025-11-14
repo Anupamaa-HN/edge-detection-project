@@ -1,0 +1,10 @@
+.gradle
+/local.properties
+/.idea
+/.vscode
+/build
+/app/build
+*.iml
+*.apk
+node_modules
+dist
